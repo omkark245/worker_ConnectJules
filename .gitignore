@@ -1,0 +1,14 @@
+# Java
+backend/target/
+*.class
+
+# Node
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.log
